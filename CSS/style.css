@@ -65,6 +65,13 @@ header h1 {
     margin: 10px auto;
 }
 
+.error {
+    background: red;
+    color: #ffffff;
+    width: 100%;
+    margin: 10px auto;
+}
+
 @media only screen and (max-width:768px) {
     #input input[type='text'] {
         width: 98%;
