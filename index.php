@@ -10,18 +10,18 @@
 </head>
 
 <body>
-    <div>
+    <div id="container">
         <header>
             <h1>SHOUT IT! shoutbox</h1>
         </header>
         <div id="shouts">
             <ul>
-                <li class='shout'><span>10:15Pm </span>Brad: HEY What are you guys up to? </li>
-                <li class='shout'><span>10:15Pm </span>Brad: HEY What are you guys up to? </li>
-                <li class='shout'><span>10:15Pm </span>Brad: HEY What are you guys up to? </li>
-                <li class='shout'><span>10:15Pm </span>Brad: HEY What are you guys up to? </li>
-                <li class='shout'><span>10:15Pm </span>Brad: HEY What are you guys up to? </li>
-                <li class='shout'><span>10:15Pm </span>Brad: HEY What are you guys up to? </li>
+                <li class='shout'><span>10:15PM </span>Brad: HEY What are you guys up to? </li>
+                <li class='shout'><span>10:15PM </span>Brad: HEY What are you guys up to? </li>
+                <li class='shout'><span>10:15PM </span>Brad: HEY What are you guys up to? </li>
+                <li class='shout'><span>10:15PM </span>Brad: HEY What are you guys up to? </li>
+                <li class='shout'><span>10:15PM </span>Brad: HEY What are you guys up to? </li>
+                <li class='shout'><span>10:15PM </span>Brad: HEY What are you guys up to? </li>
             </ul>
         </div>
         <div id="input">
